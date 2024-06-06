@@ -3,7 +3,7 @@ import requests
 
 # Defining Page Title,Icon
 st.set_page_config(
-    page_title="Random Image Generator",
+    page_title="ImageFlux",
     page_icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1pEGgK2LVKGn4J_nSbdPcP7ciKpujGV1EBw&s",
     menu_items={
         "About":"From the ordinary to the extraordinary, every image is a surprise. Click and discover!"
